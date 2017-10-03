@@ -6,8 +6,8 @@ source 'https://github.com/PopcornTimeTV/Specs'
 def pods
     pod 'PopcornTorrent', '~> 1.1.13'
     pod 'XCDYouTubeKit', '~> 2.5.5'
-    pod 'Alamofire', '~> 4.4.0'
-    pod 'AlamofireImage', '~> 3.2.0'
+    pod 'Alamofire', '~> 4.5.1'
+    pod 'AlamofireImage', '~> 3.3.0'
     pod 'SwiftyTimer', '~> 2.0.0'
     pod 'FloatRatingView', '~> 2.0.1'
     pod 'Reachability', :git => 'https://github.com/tonymillion/Reachability'
@@ -28,7 +28,7 @@ end
 target 'PopcornTimetvOS' do
     platform :tvos, '10.0'
     pods
-    pod 'TvOSMoreButton', :git => 'https://github.com/cgoldsby/TvOSMoreButton'
+    pod 'TvOSMoreButton', '~> 1.0.2'
     pod 'TVVLCKit', '~> 2.1.0'
     pod 'MBCircularProgressBar', '~> 0.3.5-1'
 end
@@ -39,9 +39,9 @@ target 'TopShelf' do
 end
 
 def kitPods
-    pod 'Alamofire', '~> 4.4.0'
+    pod 'Alamofire', '~> 4.5.1'
     pod 'ObjectMapper', '~> 2.2.7'
-    pod 'AlamofireXMLRPC', '~> 2.1.0'
+    pod 'AlamofireXMLRPC', '~> 2.2.0'
     pod 'SwiftyJSON', '~> 3.1.4'
     pod 'Locksmith', '~> 3.0.0'
 end
