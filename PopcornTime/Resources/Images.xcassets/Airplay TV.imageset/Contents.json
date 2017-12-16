@@ -4,6 +4,10 @@
       "idiom" : "tv",
       "filename" : "Airplay-TV_32x22_@1x.png",
       "scale" : "1x"
+    },
+    {
+      "idiom" : "tv",
+      "scale" : "2x"
     }
   ],
   "info" : {

@@ -4,6 +4,10 @@
       "idiom" : "tv",
       "filename" : "NowPlayingFastForward_32x32_@1x.png",
       "scale" : "1x"
+    },
+    {
+      "idiom" : "tv",
+      "scale" : "2x"
     }
   ],
   "info" : {

@@ -19,6 +19,10 @@
       "idiom" : "tv",
       "filename" : "Badge_MPAA_NR@2x-1.png",
       "scale" : "1x"
+    },
+    {
+      "idiom" : "tv",
+      "scale" : "2x"
     }
   ],
   "info" : {

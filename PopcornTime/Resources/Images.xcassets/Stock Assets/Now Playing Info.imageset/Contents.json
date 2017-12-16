@@ -4,6 +4,10 @@
       "idiom" : "tv",
       "filename" : "NowPlayingInfoIcon_251x85_@1x.png",
       "scale" : "1x"
+    },
+    {
+      "idiom" : "tv",
+      "scale" : "2x"
     }
   ],
   "info" : {
