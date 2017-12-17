@@ -1722,7 +1722,7 @@
 				"${BUILT_PRODUCTS_DIR}/Reachability-iOS/Reachability.framework",
 				"${BUILT_PRODUCTS_DIR}/SwiftyTimer-iOS/SwiftyTimer.framework",
 				"${BUILT_PRODUCTS_DIR}/XCDYouTubeKit-iOS/XCDYouTubeKit.framework",
-				"${PODS_ROOT}/google-cast-sdk/GoogleCastSDK-Public-3.4.0-Release/GoogleCast.framework",
+				"${PODS_ROOT}/google-cast-sdk/GoogleCastSDK-Public-3.5.6-Release/GoogleCast.framework",
 				"${BUILT_PRODUCTS_DIR}/AEXML-iOS/AEXML.framework",
 				"${BUILT_PRODUCTS_DIR}/AlamofireXMLRPC-iOS/AlamofireXMLRPC.framework",
 				"${BUILT_PRODUCTS_DIR}/Locksmith-iOS/Locksmith.framework",
