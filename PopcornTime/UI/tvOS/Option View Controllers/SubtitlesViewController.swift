@@ -38,6 +38,10 @@ class SubtitlesViewController: OptionsStackViewController, UITableViewDataSource
         default:
             break
         }
+        cell.contentView.backgroundColor = .clear
+        cell.textLabel?.tintColor = .white
+        
+        
         return cell
     }
     
