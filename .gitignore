@@ -153,4 +153,3 @@ fastlane/screenshots
 *.xcscmblueprint
 
 .DS_Store
-Podfile.lock
