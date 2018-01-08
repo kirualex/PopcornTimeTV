@@ -23,9 +23,9 @@ extension SearchViewController: UIToolbarDelegate {
         collectionView?.contentInset.top = toolbar.frame.height
         
         segmentedControl.translatesAutoresizingMaskIntoConstraints = false
-        segmentedControl.leadingAnchor.constraint(equalTo: toolbar.leadingAnchor, constant: 12.0).isActive = true
-        segmentedControl.trailingAnchor.constraint(equalTo: toolbar.trailingAnchor, constant: -12.0).isActive = true
-        segmentedControl.centerYAnchor.constraint(equalTo: toolbar.centerYAnchor).isActive = true
+//        segmentedControl.leadingAnchor.constraint(equalTo: toolbar.leadingAnchor, constant: 12.0).isActive = true
+//        segmentedControl.trailingAnchor.constraint(equalTo: toolbar.trailingAnchor, constant: -12.0).isActive = true
+//        segmentedControl.centerYAnchor.constraint(equalTo: toolbar.centerYAnchor).isActive = true
     }
     
     @IBAction func segmentedControlDidChangeSegment(_ segmentedControl: UISegmentedControl) {

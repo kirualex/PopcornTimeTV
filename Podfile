@@ -22,7 +22,7 @@ target 'PopcornTimeiOS' do
     pod 'google-cast-sdk', '~> 3.4.0'
     pod 'OBSlider', '~> 1.1.1'
     pod '1PasswordExtension', '~> 1.8.4'
-    pod 'MobileVLCKit-unstable', '~> 3.0.0a24'
+    pod 'MobileVLCKit-unstable', '3.0.0a51'
 end
 
 target 'PopcornTimetvOS' do
@@ -41,7 +41,7 @@ end
 def kitPods
     pod 'Alamofire', '~> 4.4.0'
     pod 'ObjectMapper', '~> 2.2.7'
-    pod 'AlamofireXMLRPC', '~> 2.1.0'
+    pod 'AlamofireXMLRPC', '2.1.0'
     pod 'SwiftyJSON', '~> 3.1.4'
     pod 'Locksmith', '~> 3.0.0'
 end
